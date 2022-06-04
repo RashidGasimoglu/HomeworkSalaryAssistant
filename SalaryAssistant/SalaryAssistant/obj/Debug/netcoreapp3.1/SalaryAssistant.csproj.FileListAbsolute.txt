@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\bin\Debug\netcoreapp3.1\SalaryAssistant.exe
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\bin\Debug\netcoreapp3.1\SalaryAssistant.deps.json
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\bin\Debug\netcoreapp3.1\SalaryAssistant.runtimeconfig.json
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\bin\Debug\netcoreapp3.1\SalaryAssistant.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\bin\Debug\netcoreapp3.1\SalaryAssistant.dll
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\bin\Debug\netcoreapp3.1\SalaryAssistant.pdb
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.dll
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.pdb
+C:\Users\LENOVO\source\repos\SalaryAssistant\SalaryAssistant\obj\Debug\netcoreapp3.1\SalaryAssistant.genruntimeconfig.cache
